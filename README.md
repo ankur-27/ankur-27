@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankur Das Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right"alt="coding"width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FPotential17%2FPotential17%2Fmaster%2Fuser%2520(2).gif&tbnid=LOz2HHLgKx2CDM&vet=1&imgrefurl=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&docid=R4QiMvaL6hd4KM&w=800&h=474&source=sh%2Fx%2Fim%2Fm5%2F2&kgs=5249635fba83c7b2"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankur-27" alt="ankur-27" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Developing**
