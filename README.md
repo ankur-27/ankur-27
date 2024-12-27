@@ -21,4 +21,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur-27&show_icons=true&locale=en&layout=compact" alt="ankur-27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur-27&" alt="ankur-27" /></p>
